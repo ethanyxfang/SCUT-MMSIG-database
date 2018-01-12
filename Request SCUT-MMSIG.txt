@@ -1,0 +1,15 @@
+Request SCUT-MMSIG
+
+The SCUT-MMSIG multimodel online signature database is publicly available (free of charge) to the research community.  
+Unfortunately, due to privacy reasons, we cannot provide the database for commercial use.
+
+Those interested in obtaining SUSIG database should download release agreement, and send by email one signed and scanned copy to scutbip@outlook.com.
+
+While reporting results using the SCUT-MMSIG database, please cite the following article:  
+@inproceedings{Lu2017SCUT,  
+  title={SCUT-MMSIG: A Multimodal Online Signature Database},  
+  author={Lu, Xinyi and Fang, Yuxun and Kang, Wenxiong and Wang, Zhiyong and Feng, David Dagan},  
+  booktitle={Chinese Conference on Biometric Recognition},  
+  pages={729-738},  
+  year={2017},  
+}
