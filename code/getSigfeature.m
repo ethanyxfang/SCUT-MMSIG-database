@@ -1,8 +1,8 @@
 function [Feature, L] = getSigfeature(subcorpus, database_path)
 % Read the signature data and calculate the 6-D feature descriptor
 
-if exist([upper(subcorpus),'_feautre.mat'], 'file')
-    load([upper(subcorpus),'_feautre.mat']);
+if exist([upper(subcorpus),'_feature.mat'], 'file')
+    load([upper(subcorpus),'_feature.mat']);
     return;
 end
 
@@ -22,5 +22,5 @@ for subject = 1 : 50
 end
 
 disp('Saving feature ...');
-save([upper(subcorpus), '_feautre'], 'Feature', 'L');
+save([upper(subcorpus), '_feature'], 'Feature', 'L');
 disp('Feature saved.');
