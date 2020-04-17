@@ -32,7 +32,7 @@ eg.
 The SCUT-MMSIG multimodel online signature database is publicly available (free of charge) to the research community.  
 Unfortunately, due to privacy reasons, we cannot provide the database for commercial use.
 
-Those interested in obtaining SUSIG database should download [release agreement](https://github.com/ethanyxfang/SCUT-MMSIG-database/blob/master/SCUT-MMSIG%20Database%20Release%20Agreement.pdf), and send by email one signed and scanned copy to scutbip@outlook.com.
+Those interested in obtaining SCUT-MMSIG database should download [release agreement](https://github.com/ethanyxfang/SCUT-MMSIG-database/blob/master/SCUT-MMSIG%20Database%20Release%20Agreement.pdf), and send by email one signed and scanned copy to scutbip@outlook.com.
 
 While reporting results using the SCUT-MMSIG database, please cite the following article:  
 @inproceedings{Lu2017SCUT,  
